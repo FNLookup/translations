@@ -1,0 +1,2 @@
+# translations
+FNLookup's translations.
